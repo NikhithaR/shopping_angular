@@ -1,0 +1,15 @@
+{
+  "name": "AngularShoppingCart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "angular-route": "^1.3.14",
+    "express": "^4.12.2",
+    "mongoose": "^4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
